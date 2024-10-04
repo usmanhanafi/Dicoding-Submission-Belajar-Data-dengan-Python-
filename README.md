@@ -3,8 +3,6 @@
 ## Deskripsi
 Dicoding Collection Dashboard adalah aplikasi yang memungkinkan pengguna untuk mengelola dan memvisualisasikan koleksi data dengan mudah.
 
-## Setup Environment
-
 ### Shell/Terminal
 1. Buat direktori untuk proyek:
    ```bash
