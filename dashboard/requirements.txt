@@ -1,5 +1,1 @@
-streamlit
-pandas
-matplotlib.pyplot
-seaborn
-os
+matplotlib
